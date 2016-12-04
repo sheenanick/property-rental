@@ -1,7 +1,10 @@
-# Property-rental
+# Property Rental
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+#### _Epicodus JavaScript Week 3, 10.26.2016_
+
+#### By Sheena Nickerson and Shelby Clayton
+
+This is an application where property owners may list places for rent, and renters will be able to find places to stay.
 
 ## Prerequisites
 
@@ -22,7 +25,7 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
-* `ember serve`
+* `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
 ### Code Generators
@@ -39,9 +42,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
@@ -51,3 +51,8 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+### License
+
+This software is licensed under the MIT license.
+
+Copyright (c) 2016 **_Sheena Nickerson and Shelby Clayton_**
